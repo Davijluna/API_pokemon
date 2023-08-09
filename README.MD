@@ -30,7 +30,7 @@
 # ♻️ Clone o Projeto
 
 ```bash
-    # Clonando o Projeto
+  # Clonando o Projeto
   $ git clone git@github.com:Davijluna/API_pokemon.git
 ```
 ```bash
