@@ -31,7 +31,7 @@
 
 ```bash
   # Clonando o Projeto
-  $ git clone git@github.com:Davijluna/API_pokemon.git
+  $ git clone git@github.com:Davijluna/API_pokemon
 ```
 ```bash
   # entre no diretório
